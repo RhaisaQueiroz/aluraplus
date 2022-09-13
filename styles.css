@@ -128,7 +128,6 @@ body {
     margin: 1em ;
 }
 .lista__link {
-    font-size: 16px;
     text-decoration: none;
     color: var(--branco-principal);
     margin-left: 1em;
